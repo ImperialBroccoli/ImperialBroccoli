@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Rust (It's my fav!)
 - 💞️ I love American College Football!
 - 😄 Pronouns: tastes/disgusting
-- ⚡ Fun fact: I actually hate broccoli in rl
+- ⚡ Fun fact: I actually hate broccoli irl
